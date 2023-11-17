@@ -1,4 +1,4 @@
-package com.homework.moduleTwo.task1;
+package com.homework.moduleOne.task2;
 
 public class Main {
 
