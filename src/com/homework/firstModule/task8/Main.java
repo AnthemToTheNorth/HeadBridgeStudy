@@ -1,15 +1,12 @@
-package com.homework.moduleOne.task8;
+package com.homework.firstModule.task8;
 
 public class Main {
 
     /*Простое ли число*/
-    /*Списано*/
 
     public static void main(String[] args) {
-
         int num = 29;
         System.out.println(isPrime(num));
-
     }
 
     public static boolean isPrime(int num) {
