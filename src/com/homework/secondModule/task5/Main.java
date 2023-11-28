@@ -1,6 +1,6 @@
 package com.homework.secondModule.task5;
 
-/*without returning an array*/
+/*without returning an array */
 
 public class Main {
     public static void main(String[] args) {
